@@ -77,5 +77,5 @@ A detailed diagram showing VMNet mappings and subnet roles is available in  http
 - Detection: Security Onion alerts + Splunk log correlation
 
 ## 📂 screenshots
-  - 
+  - https://github.com/al9ghazi4/Deduction-lab/blob/main/01-Cyber%20Security%20Monitoring%20%26%20Detection.pdf
 
