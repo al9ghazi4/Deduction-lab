@@ -78,4 +78,5 @@ A detailed diagram showing VMNet mappings and subnet roles is available in  http
 
 ## 📂 screenshots
   - https://github.com/al9ghazi4/Deduction-lab/blob/main/01-Cyber%20Security%20Monitoring%20%26%20Detection.pdf
+  - https://github.com/al9ghazi4/Deduction-lab/blob/main/02-CyberAttack-Lab.pdf
 
