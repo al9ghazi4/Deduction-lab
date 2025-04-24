@@ -77,15 +77,5 @@ A detailed diagram showing VMNet mappings and subnet roles is available in  http
 - Detection: Security Onion alerts + Splunk log correlation
 
 ## 📂 screenshots
-  ├── https://github.com/al9ghazi4/Deduction-lab/blob/main/Screenshot_23-4-2025_181445_.jpeg?raw=true
-  ├── pfsense-interfaces.png
-  ├── ad-setup.png
-  ├── dns-zone.png
-  ├── kali-nmap.png
-  ├── securityonion-alerts.png
-  ├── splunk-dashboard.png
-/configs/
-  ├── netplan-config.yaml
-  ├── vulnAD-script.ps1
-  ├── pfsense-rules.xml
+  - 
 
