@@ -39,7 +39,7 @@ The Detection Lab project aimed to establish a controlled environment for simula
 - Splunk: 192.168.5.0/24
 
 ## 🌐 Network Topology
-A detailed diagram showing VMNet mappings and subnet roles is available in `/screenshots/topology.png`.
+A detailed diagram showing VMNet mappings and subnet roles is available in  https://github.com/al9ghazi4/Deduction-lab/commit/dfbdc576d633c3bee04a685ed8576bc9c72cbb8b
 
 ## 🔐 pfSense Setup
 - Installed pfSense 2.6.0 and mapped interfaces.
