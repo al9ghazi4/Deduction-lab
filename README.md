@@ -81,5 +81,5 @@ A detailed diagram showing VMNet mappings and subnet roles is available in  http
   - https://github.com/al9ghazi4/Deduction-lab/blob/main/02-CyberAttack-Lab.pdf
   - https://github.com/al9ghazi4/Deduction-lab/blob/main/19-Vulnerable%20AD%20Configuration.pdf
   -  https://github.com/al9ghazi4/Deduction-lab/blob/main/29-Attacks%20%26%20Monitoring.pdf
-  - 
+  - https://github.com/al9ghazi4/Deduction-lab/blob/main/31-AD%20Splunk%20Monitoring.pdf
 
